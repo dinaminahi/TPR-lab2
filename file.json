@@ -1,0 +1,47 @@
+[
+    {
+      "option": "A",
+      "worth": 800,
+      "income": 300,
+      "incomeProbability":0.75,
+      "loss": -70,
+      "lossProbability": 0.25,
+      "years": 5,
+      "buildingProbability": null,
+      "notBuildingProbability": null
+    },
+    {
+      "option": "B",
+      "worth": 180,
+      "income": 190,
+      "incomeProbability":0.75,
+      "loss": -40,
+      "lossProbability": 0.25,
+      "years": 5,
+      "buildingProbability": null,
+      "notBuildingProbability": null
+    
+    },
+    {
+      "option": "CA",
+      "worth": 800,
+      "income": 300,
+      "incomeProbability":0.85,
+      "loss": -70,
+      "lossProbability": 0.15,
+      "years": 4,
+      "buildingProbability": 0.8,
+      "notBuildingProbability": 0.2
+    },
+    {
+      "option": "CB",
+      "worth": 180,
+      "income": 190,
+      "incomeProbability":0.85,
+      "loss": -40,
+      "lossProbability": 0.15,
+      "years": 4,
+      "buildingProbability": 0.8,
+      "notBuildingProbability": 0.2
+    }
+  ]
